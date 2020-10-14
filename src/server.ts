@@ -2,7 +2,6 @@ import express from 'express';
 import 'express-async-errors';
 import './database/connection';
 
-
 import routes from "./routes";
 import * as path from "path";
 import errorHandler from "./errors/handler";
