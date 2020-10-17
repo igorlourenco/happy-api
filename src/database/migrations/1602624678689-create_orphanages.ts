@@ -42,6 +42,15 @@ export class createOrphanages1602624678689 implements MigrationInterface {
                     type: "varchar"
                 },
                 {
+                    name: "whatsapp",
+                    type: "varchar"
+                },
+                {
+                    name: "instagram",
+                    type: "varchar",
+                    isNullable: true
+                },
+                {
                     name: "open_on_weekends",
                     type: "boolean",
                     default: false
