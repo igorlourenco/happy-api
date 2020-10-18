@@ -31,7 +31,6 @@
 4. Read ```.env.example```, change the variables according to the explanation, and create a ```.env``` file with this data;
 5. Run ```yarn dev``` to start the project execution;
 6. The app should be running at ```https://<your IP>:3333``` (read .env.example).
-7.
 
 ---
 
